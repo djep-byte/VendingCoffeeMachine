@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=requiredIngredients
+comment2.target=boolean\ hasEnoughIngredients(java.util.Map)
+comment3.params=ingredients
+comment3.target=void\ reduceStock(java.util.Map)
+comment4.params=
+comment4.target=void\ refillStock()
+comment5.params=
+comment5.target=void\ displayStock()
+numComments=6
